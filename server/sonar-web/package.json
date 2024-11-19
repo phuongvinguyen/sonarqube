@@ -5,7 +5,7 @@
   "repository": "SonarSource/sonarqube",
   "license": "LGPL-3.0",
   "dependencies": {
-    "@emotion/react": "11.11.4",
+    "@emotion/react": "11.13.3",
     "@emotion/styled": "11.13.0",
     "@primer/octicons-react": "19.11.0",
     "@react-spring/rafz": "9.7.4",
