@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "maven"       # Specify Maven as the package manager
     directory: "/"                  # Root directory where the `pom.xml` file exists
     schedule:
-      interval: "daily"   
+      interval: "weekly"   
